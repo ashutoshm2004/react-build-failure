@@ -1,0 +1,7 @@
+{
+  "name": "react-build-failure",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node index.js"
+  }
+}
